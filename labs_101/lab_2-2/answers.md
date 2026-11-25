@@ -66,5 +66,3 @@ Is `tmux` niet geïnstalleerd, installeer het dan (herhaling van lab 2.1) of geb
 ---
 
 [← Terug naar lab 2.2](README.md) · [Overzicht](../../README.md)
-
-ⓒ 2019-2026 Qensus B.V.

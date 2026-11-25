@@ -80,5 +80,3 @@ Opruimen: `sudo userdel -r tester` en `sudo rm /etc/sudoers.d/tester`.
 ---
 
 [← Terug naar lab 10.1](README.md) · [Overzicht](../../README.md)
-
-ⓒ 2019-2026 Qensus B.V.

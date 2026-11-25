@@ -67,5 +67,3 @@ Ubuntu 18.04 gebruikt standaard `systemd-timesyncd`; `timedatectl` toont of de k
 ---
 
 [← Terug naar lab 7.2](README.md) · [Overzicht](../../README.md)
-
-ⓒ 2019-2026 Qensus B.V.

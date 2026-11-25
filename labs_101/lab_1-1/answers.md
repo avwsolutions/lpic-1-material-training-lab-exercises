@@ -69,5 +69,3 @@ De zoekresultaten leiden naar `uname`.
 ---
 
 [← Terug naar lab 1.1](README.md) · [Overzicht](../../README.md)
-
-ⓒ 2019-2026 Qensus B.V.

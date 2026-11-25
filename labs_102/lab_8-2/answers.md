@@ -66,5 +66,3 @@ DNS wordt nu eerst geraadpleegd. Kent de DNS-server de naam `buur` niet, dan val
 ---
 
 [← Terug naar lab 8.2](README.md) · [Overzicht](../../README.md)
-
-ⓒ 2019-2026 Qensus B.V.

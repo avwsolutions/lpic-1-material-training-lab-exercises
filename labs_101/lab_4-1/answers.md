@@ -69,5 +69,3 @@ rm -r ~/project
 ---
 
 [← Terug naar lab 4.1](README.md) · [Overzicht](../../README.md)
-
-ⓒ 2019-2026 Qensus B.V.

@@ -56,5 +56,3 @@ cut -d: -f7 /etc/passwd | sort | uniq | tee shells.txt
 ---
 
 [← Terug naar lab 1.3](README.md) · [Overzicht](../../README.md)
-
-ⓒ 2019-2026 Qensus B.V.

@@ -56,5 +56,3 @@ Elk verschil in inhoud, hoe klein ook (een extra account, een andere shell), gee
 ---
 
 [← Terug naar lab 1.2](README.md) · [Overzicht](../../README.md)
-
-ⓒ 2019-2026 Qensus B.V.

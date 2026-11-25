@@ -83,5 +83,3 @@ Geen extra schijf beschikbaar? Gebruik dan een loop device op een bestand.
 ---
 
 [← Terug naar lab 3.2](README.md) · [Overzicht](../../README.md)
-
-ⓒ 2019-2026 Qensus B.V.

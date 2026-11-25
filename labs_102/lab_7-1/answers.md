@@ -65,5 +65,3 @@ sudo rm /etc/skel/welkom.txt
 ---
 
 [← Terug naar lab 7.1](README.md) · [Overzicht](../../README.md)
-
-ⓒ 2019-2026 Qensus B.V.

@@ -35,5 +35,3 @@ Probeer de opdrachten eerst zelf. De uitwerkingen staan in [answers.md](answers.
 ---
 
 [← Lab 10.1](../lab_10-1/README.md) · [← Overzicht](../../README.md)
-
-ⓒ 2019-2026 Qensus B.V.

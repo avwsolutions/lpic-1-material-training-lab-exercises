@@ -72,5 +72,3 @@ Het rootwachtwoord is nodig; de wijziging geldt alleen voor deze ene boot.
 ---
 
 [← Terug naar lab 5.1](README.md) · [Overzicht](../../README.md)
-
-ⓒ 2019-2026 Qensus B.V.

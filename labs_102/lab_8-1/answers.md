@@ -63,5 +63,3 @@ cat /etc/hostname
 ---
 
 [← Terug naar lab 8.1](README.md) · [Overzicht](../../README.md)
-
-ⓒ 2019-2026 Qensus B.V.

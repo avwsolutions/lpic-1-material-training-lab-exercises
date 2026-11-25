@@ -58,5 +58,3 @@ ls /lib/modules/$(uname -r)/
 ---
 
 [← Terug naar lab 3.1](README.md) · [Overzicht](../../README.md)
-
-ⓒ 2019-2026 Qensus B.V.

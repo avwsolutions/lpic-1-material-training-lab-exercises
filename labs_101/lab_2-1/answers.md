@@ -90,5 +90,3 @@ cat /etc/apt/sources.list
 ---
 
 [← Terug naar lab 2.1](README.md) · [Overzicht](../../README.md)
-
-ⓒ 2019-2026 Qensus B.V.

@@ -77,5 +77,3 @@ Je partner heeft zowel het bestand als de `.sig` nodig. Na een wijziging in het 
 ---
 
 [← Terug naar lab 10.2](README.md) · [Overzicht](../../README.md)
-
-ⓒ 2019-2026 Qensus B.V.

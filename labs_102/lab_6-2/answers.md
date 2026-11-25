@@ -63,5 +63,3 @@ Webinterface: open `http://localhost:631` in de browser.
 ---
 
 [← Terug naar lab 6.2](README.md) · [Overzicht](../../README.md)
-
-ⓒ 2019-2026 Qensus B.V.

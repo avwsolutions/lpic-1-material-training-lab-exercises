@@ -72,5 +72,3 @@ ping -c1 <host> > /dev/null || echo "<host> onbereikbaar" | mail -s "Ping misluk
 ---
 
 [← Terug naar lab 9.1](README.md) · [Overzicht](../../README.md)
-
-ⓒ 2019-2026 Qensus B.V.
