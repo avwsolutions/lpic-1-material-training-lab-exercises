@@ -1,6 +1,6 @@
 # Uitwerkingen lab 1.2 – Tekst filteren uit /etc/passwd
 
-> De opdrachten staan in [README.md](README.md). De uitwerkingen zijn geschreven voor CentOS 7 en Ubuntu 18.04 LTS; uitvoer en paden kunnen per distributie en versie verschillen.
+> De opdrachten staan in [README.md](README.md). De uitwerkingen zijn geschreven voor Fedora 45 en Ubuntu 26.04 LTS; uitvoer en paden kunnen per distributie en versie verschillen.
 
 ## Opdracht 1
 
